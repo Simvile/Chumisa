@@ -1,10 +1,12 @@
 # Chumisa![Screenshot (406)](https://user-images.githubusercontent.com/117114418/199113370-ac885cc5-67c2-419b-829a-5442947e45ac.png)
-Andisiwe Nomnyama
-Simvile Zimeme
-Aviwe Gakrishe
+        :Andisiwe Nomnyama, Developer, Database Analyst
+        :Simvile Zimeme, Developer, Programmer
+        :Aviwe Gakrishe, Developer, Business Analyst
 
-The Department of Agriculture, Land Reform and Rural Development is responsible for overseeing production and consumption in the agricultural sector, creating agricultural value chains, and supplying agricultural inputs. However, the department of agriculture does not deliever the outmost services in the rural areas. The Agri Digital will offer a solution to the previously described issue. Chumisa will collaborate with the Department of Agriculture to address issues that rural farmers in the Eastern Cape experience, such as their lack of incentive to engage in farming because of the limited resources they have access to.
-The proposed solution entails developing an information system that solve the problems mentioned above. Chumisa will function as follows. Farmers or citizens in the Eastern Cape can use our system for three services. For either looking for sponsorship, partnership and for getting news update about land reform and agriculture. A citizen who is looking for sponsorship will have to apply for the available funding. Our system will provide different types of agriculture sponsorship. Secondly a farmer who is looking for partnership will have to search for partnership or create a profile. Upon creating a profile a farmer will have to provide the personal and farming information. For a profile to be updated the farmer will have to make payment. Lastly a citizen who want to read more about land and agriculture will register to the system to get new update.
+ Farmers in rural areas often face challenges in getting agricultural information, as such they lack behind in disease and pest control. While radio is used to disseminate information, it does not offer on-demand information services to Farmers. It also does not provide an efficient feedback mechanism for farmers to communicate with rural agricultural extension officers, commonly known as Arex officers.  
+Rural economies it is often neglected, and farmers are left without any proficient access to agricultural information.  forex offices usually must travel long distances to access subsistence and Smallholder farmers in conditions that may get worse with bad weather. To solve these challenges in smallholder and subsistence farming We came up with a platform for facilitating efficient communication amongst Smallholder farmers government-approved sponsors and Arex offices
+  We present to you CHUMISA, a platform for effective and efficient farmer communication.
+CHUMISA Is a web-based platform that can be accessed on demand using any web-enabled device. the platform allows farmers to communicate with other farmers exchange ideas implements resources and tips. The platform also allows government-approved sponsors to advertise available sponsorship to farmers. Farmers can respond to sponsorship at with advertisements by applying for the funding available
 
 
 
