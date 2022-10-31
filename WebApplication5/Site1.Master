@@ -1,0 +1,65 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication5.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+          <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+
+        <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link href="CSS/Master.css" rel="stylesheet" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="d-flex" id="wrapper">
+        <!-- Sidebar-->
+
+            <div class="border-end bg-white" id="sidebar-wrapper">
+                <img src="images/Chumisa%20Logo.jpg" alt="Chumisa Logo" width="150px" height="150px"/>
+                <div class="list-group list-group-flush">
+                    <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/Home.aspx" CssClass=" list-group-item list-group-item-action list-group-item-light p-3 ">Home</asp:HyperLink>
+                    <hr class="line"/>
+                    <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Chat.aspx" CssClass=" list-group-item list-group-item-action list-group-item-light p-3 ">Messages</asp:HyperLink>
+                    <hr class="line" />
+                    <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/AvailableSponsors.aspx" CssClass=" list-group-item list-group-item-action list-group-item-light p-3 ">Sponsorship</asp:HyperLink>
+                    <hr class="line" />
+                    <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/AvailablePartners.aspx" CssClass=" list-group-item list-group-item-action list-group-item-light p-3 ">Partnership</asp:HyperLink>
+                    <hr class="line" />
+                    <asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="~/Profile.aspx" CssClass=" list-group-item list-group-item-action list-group-item-light p-3 ">Profile</asp:HyperLink>
+                    <hr class="line" />
+                    <asp:HyperLink ID="AddSponsor" runat="server" NavigateUrl="~/AddSponsor.aspx" CssClass=" list-group-item list-group-item-action list-group-item-light p-3 ">Add Sponsorship</asp:HyperLink>
+                    <hr class="line" />
+                    <asp:HyperLink ID="AddNews" runat="server" NavigateUrl="~/AddNews.aspx" CssClass=" list-group-item list-group-item-action list-group-item-light p-3 ">Add News</asp:HyperLink>
+                    <hr class="line" />
+                    <asp:HyperLink ID="SignInLink" runat="server" NavigateUrl="~/Sign_In.aspx" CssClass=" list-group-item list-group-item-action list-group-item-light p-3 ">Sign In</asp:HyperLink>
+                    <hr class="line" />
+                    <asp:HyperLink ID="SignUpLink" runat="server" NavigateUrl="~/Sign_Up.aspx" CssClass=" list-group-item list-group-item-action list-group-item-light p-3 ">Sign Up</asp:HyperLink>
+                    <hr class="line" />
+                    <asp:HyperLink ID="SignOutLink" runat="server" NavigateUrl="~/Sign_In.aspx" CssClass=" list-group-item list-group-item-action list-group-item-light p-3 ">Sign Out</asp:HyperLink><hr class="line" />
+                </div>
+            </div>
+                
+                <!-- Page content-->
+        
+                <div class="container-fluid">
+                         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+                </div>
+            </div>
+    </form>
+
+</body>
+</html>

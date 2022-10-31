@@ -1,0 +1,106 @@
+﻿body {
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    background: linear-gradient(to left, #62a837, #5abf31);
+}
+
+
+h1, h2, h4, h5, p, h3{
+    color:black !important;
+}
+h3{
+    color:black !important;
+}
+p{
+    color:black !important;
+    margin-bottom:-3px;
+}
+
+hr{
+    color:black !important;
+}
+
+.line {
+   bottom: -20px;
+}
+/* Home Page */
+#lblNewsTopic {
+    color: white !important;
+    font: 30px;
+    font-family: 'Times New Roman';
+    letter-spacing: 1px;
+}
+
+.User_Sign{
+    background-color:whitesmoke !important;
+    margin:auto;
+    height:100vh;
+}
+.content_ {
+    background-color: whitesmoke !important;
+    margin: auto;
+}
+.signin_ {
+    margin-top: 100px;
+}
+
+.newsUrl{
+    margin-top:-30px;
+}
+.newsUrl:active{
+    color:red;
+}
+
+._Tip {
+    font-family: 'Times New Roman';
+    letter-spacing: 1px;
+    position: relative;
+    animation-name: myAnime;
+    animation-duration: 6s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+    transition: 3s ease-in-out;
+}
+
+@keyframes myAnime {
+    0% {
+        margin-bottom:0;
+        margin-top:200px;
+        background-color: white;
+    }
+    100% {
+        margin-bottom: -200px;
+    }
+}
+
+.alert_ {
+    background-color: Red;
+    color: white !important;
+    border: none;
+    border-radius: 50%;
+    margin-left: 270px;
+    margin-top:-30px;
+    font-size: 26px;
+    text-align: center;
+    padding: 5px;
+}
+
+.NewsTopic {
+    font-size: 190%;
+    margin-bottom: -5px;
+}
+.lblMessage{
+    font-size:100%;
+}
+.NewsTimePosted{
+    opacity:0,6;
+    font:italic;
+    font-size:120%;
+}
+.messagebox{
+    background-color:forestgreen;
+}
+.btnSendChat_ {
+    margin-left: auto;
+}
+

@@ -1,0 +1,32 @@
+﻿body{
+    background-color:whitesmoke;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+
+.User_Sign {
+    padding-top:5px;
+    background: linear-gradient(to right, #62a837, #5abf31);
+    height: 80vh;
+    border-radius:12px;
+}
+.Sign_UP {
+    padding:10px;
+    background: linear-gradient(to right, #62a837, #5abf31);
+    border-radius: 10px;
+}
+
+p{
+    color: white;
+}
+h3{
+    color: white;
+}
+
+#hplnSignUp{
+    color:white;
+}
+
+#hplnkSignIn{
+    color:white;
+}
