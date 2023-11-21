@@ -1,17 +1,23 @@
-# Chumisa![Screenshot (406)](https://user-images.githubusercontent.com/117114418/199113370-ac885cc5-67c2-419b-829a-5442947e45ac.png)
-        :Andisiwe Nomnyama, Developer, Database Analyst
-        :Simvile Zimeme, Developer, Programmer
-        :Aviwe Gakrishe, Developer, Business Analyst
+# Chumisa(Feterlise)!
 
- Farmers in rural areas often face challenges in getting agricultural information, as such they lack behind in disease and pest control. While radio is used to disseminate information, it does not offer on-demand information services to Farmers. It also does not provide an efficient feedback mechanism for farmers to communicate with rural agricultural extension officers, commonly known as Arex officers.  
-Rural economies it is often neglected, and farmers are left without any proficient access to agricultural information.  forex offices usually must travel long distances to access subsistence and Smallholder farmers in conditions that may get worse with bad weather. To solve these challenges in smallholder and subsistence farming We came up with a platform for facilitating efficient communication amongst Smallholder farmers government-approved sponsors and Arex offices
-  We present to you CHUMISA, a platform for effective and efficient farmer communication.
-CHUMISA Is a web-based platform that can be accessed on demand using any web-enabled device. the platform allows farmers to communicate with other farmers exchange ideas implements resources and tips. The platform also allows government-approved sponsors to advertise available sponsorship to farmers. Farmers can respond to sponsorship at with advertisements by applying for the funding available
+Welcome to Chumisa (Feterlise)! This README provides a brief overview of the project.
 
+## Overview!
 
+Farmers in rural areas often face challenges in getting agricultural information, as such they lack behind in disease and pest control. While radio is used to disseminate information, it does not offer on-demand information services to Farmers. It also does not provide an efficient feedback mechanism for farmers to communicate with rural agricultural extension officers, commonly known as Arex officers.  
+Rural economies it is often neglected, and farmers are left without any proficient access to agricultural information.  forex offices usually must travel long distances to access subsistence and Smallholder farmers in conditions that may get worse with bad weather. To solve these challenges in smallholder and subsistence farming We came up with a platform for facilitating efficient communication amongst Smallholder farmers government-approved sponsors and Arex offices.
+We present to you CHUMISA, a platform for effective and efficient farmer communication.
+CHUMISA Is a web-based platform that can be accessed on demand using any web-enabled device. the platform allows farmers to communicate with other farmers exchange ideas implements resources and tips. The platform also allows government-approved sponsors to advertise available sponsorship to farmers. Farmers can respond to sponsorship at with advertisements by applying for the funding available.
 
+## Contribution
 
+- [Andisiwe Nomnyama (Database Analyst)]()
+- [Simvile Zimeme (Programmer)](https://github.com/Simvile)
+- [Aviwe Gakrishe (Documentator)]()
 
+## Screenshots
+
+![Screenshot (406)](https://user-images.githubusercontent.com/117114418/199113370-ac885cc5-67c2-419b-829a-5442947e45ac.png)
 ![Screenshot (407)](https://user-images.githubusercontent.com/117114418/199113378-52410fc7-9e91-49f5-bfee-2f20746ac541.png)
 ![Screenshot (408) - Copy](https://user-images.githubusercontent.com/117114418/199113379-9562f6cb-b709-4678-bf5b-9f6eee9c82a0.png)
 ![Screenshot (394)](https://user-images.githubusercontent.com/117114418/199113381-8985c7c3-a6fa-4fba-95d1-a193f94b2f5a.png)
