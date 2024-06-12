@@ -11,9 +11,7 @@ CHUMISA Is a web-based platform that can be accessed on demand using any web-ena
 
 ## Contribution
 
-- [Andisiwe Nomnyama (Database Analyst)]()
-- [Simvile Zimeme (Programmer)](https://github.com/Simvile)
-- [Aviwe Gakrishe (Documentator)]()
+
 
 ## Screenshots
 
